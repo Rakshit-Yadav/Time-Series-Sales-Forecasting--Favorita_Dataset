@@ -1,1 +1,3 @@
-# Time-Series-Sales-Forecasting--Favorita_Dataset-
+# Time-Series-Sales-Forecasting--Favorita_Dataset
+
+## It is highly advised to read the full report pdf for the detailed analysis and the choice of the model we ended up using for forecasting, the hyperparameter tuning and selection of parameters. The code blocks are separated through the different stages of the cycle of this project. It is also highly recommended to watch the video presentation to get a synopsis of the whole project. Due to the restrictions on the dataset sharing, the files can not be reproduced and should be seen as read-only documents. The data can be shared upon request for reproducibility of the results. For the dataset, please request on rakshityadav360@gmail.com
